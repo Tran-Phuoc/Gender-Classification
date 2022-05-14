@@ -16,7 +16,7 @@
 - Công cụ sử dụng:
   a. Ngôn ngữ lập tình python bằng juputer notebook
   b. Sử dụng thư viện numpy, pandas, sklean
-- Dữ Liệu phân loại (kaggle): 
+- Dữ Liệu phân loại (kaggle): [dataset chưa chuẩn hóa](https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset)
 
 ### **2. Xây Dụng Thuật Toán**
 - Tiền xử lý dữ liệu:
